@@ -1,9 +1,9 @@
 {
   "clientes": [
     {
-      "nombre": "Coca Cola Actualizado",
-      "empresa": "ELYAS",
-      "email": "correo@correo.com",
+      "nombre": "Elyas",
+      "empresa": "Company RAJJAF",
+      "email": "elyasrajjaf@mail.com",
       "telefono": "488754",
       "notas": "Notas de elyas",
       "id": 1
