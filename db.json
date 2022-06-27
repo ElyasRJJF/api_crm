@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    {
+      "nombre": "Coca Cola Actualizado",
+      "empresa": "ELYAS",
+      "email": "correo@correo.com",
+      "telefono": "488754",
+      "notas": "Notas de elyas",
+      "id": 1
+    }
+  ]
+}
